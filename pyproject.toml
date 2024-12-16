@@ -2,7 +2,7 @@
 name = "real-estate-toolkit"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Tom Owen <tom.owen01@estudiant.upf.edu>", "Nil Belluda <nil.belluda01@estudiant.upf.edu>", "Armand Vidal <armand.vidal01@estudiant.upf.edu>"]
 readme = "README.md"
 packages = [{include = "real_estate_toolkit", from = "src"}]
 
